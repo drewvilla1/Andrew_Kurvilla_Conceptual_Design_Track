@@ -10,7 +10,7 @@ This repository contains the conceptual design for an AI-based solution for a NA
 
 ## Project Structure
 - **docs/**: Contains the project proposal, detailed solution plan, and testing plan.
-- **presentation/**: Contains the final presentation slides (PDF).
+- **NASA-Space-Mission-AI-Project-Plan.pdf/**: Contains the final presentation slides (PDF).
 - **README.md**: This file, providing an overview and instructions.
 
 ## How to Read the Documentation
