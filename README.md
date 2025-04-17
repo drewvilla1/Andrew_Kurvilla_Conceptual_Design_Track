@@ -19,7 +19,7 @@ This repository contains the conceptual design for an AI-based solution for a NA
    - `project_proposal.md`: Problem statement and objectives.
    - `solution_plan.md`: Technical design and system architecture.
    - `testing_plan.md`: Validation and testing strategies.
-3. Check the `presentation/` folder for the final slides (PDF).
+3. Check the `NASA-Space-Mission-AI-Project-Plan.pdf/` folder for the final slides (PDF).
 
 ## Status
 This is a work in progress. Documentation and presentation materials will be updated as the project progresses.
