@@ -1,2 +1,2 @@
 # Andrew_Kurvilla_Conceptual_Design_Track
-Conceptual Design for NASA Space Mission AI Project - ITAI 2372
+This project proposes a detailed conceptual design for an AI system to optimize autonomous navigation for a NASA space mission. The AI solution will focus on real-time path planning and obstacle avoidance for a Mars rover, leveraging machine learning and sensor data fusion to enhance mission efficiency and safety.(Conceptual Design for NASA Space Mission AI Project - ITAI 2372)
